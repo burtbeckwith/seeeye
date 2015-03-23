@@ -57,3 +57,5 @@ log4j.main = {
 	debug 'org.hibernate.SQL'
 	// trace 'org.hibernate.type.descriptor.sql.BasicBinder'
 }
+
+newproperty = 42
