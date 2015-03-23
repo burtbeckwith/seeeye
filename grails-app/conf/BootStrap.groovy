@@ -1,0 +1,5 @@
+class BootStrap {
+
+	def init = {
+	}
+}
