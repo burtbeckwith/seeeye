@@ -58,4 +58,4 @@ log4j.main = {
 	// trace 'org.hibernate.type.descriptor.sql.BasicBinder'
 }
 
-newproperty = 42
+newproperty = 43
